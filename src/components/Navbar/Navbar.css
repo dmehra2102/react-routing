@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 70%;
+    margin: auto;
+}
+
+.link {
+    text-decoration: none;
+    margin-top: 15px;
+}

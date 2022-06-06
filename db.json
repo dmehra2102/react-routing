@@ -1,0 +1,33 @@
+{
+    "products":[
+        {
+            "name" : "SmartPhone",
+            "price": 30,
+            "id" : 0,
+            "descriptiton":"A smartphone is a cell phone that allows you to do more than make phone calls and send text messages. Smartphones can browse the Internet and run software programs like a computer. Smartphones use a touch screen to allow users to interact with them."
+        },
+        {
+            "name" : "Watch",
+            "price" : 20,
+            "id" : 1,
+            "descriptiton":"A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps or any other kind of bracelet. A pocket watch is designed for a person to carry in a pocket, often attached to a chain."
+        },
+        {
+            "name" : "Shirt",
+            "price" : 50,
+            "id" : 2,
+            "descriptiton":"A shirt is a cloth garment for the upper body (from the neck to the waist). Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments. In British English, a shirt is more specifically a garment with a collar, sleeves with cuffs, and a full vertical opening with buttons or snaps (North Americans would call that a dress shirt, a specific type of collared shirt). A shirt can also be worn with a necktie under the shirt collar."
+        },
+        {
+            "name" : "Pants",
+            "price" : 100,
+            "id" : 3
+        },
+        {
+            "name" : "T.V",
+            "price" : 120,
+            "id" : 4  ,
+            "descriptiton":"television (TV), the electronic delivery of moving images and sound from a source to a receiver. By extending the senses of vision and hearing beyond the limits of physical distance, television has had a considerable influence on society."
+        }
+]
+}

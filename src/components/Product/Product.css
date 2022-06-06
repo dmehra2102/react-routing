@@ -1,0 +1,26 @@
+.items-div {
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+.items-div > p{
+    font-size: 22px;
+}
+.product-div {
+    display: grid;
+    grid-template-columns: repeat(3,350px);
+    gap: 10px;
+    grid-template-rows: auto;
+    width: 85%;
+    margin: auto;
+}
+
+.moredetails-btn{
+    max-width: 200px;
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 30px; */
+}
